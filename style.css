@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.elements
+{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.btn
+{
+  display : flex;
+  justify-content : space-between;
+  margin: 20px;
+}
